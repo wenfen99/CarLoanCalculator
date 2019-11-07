@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="welcome">Good days! Pay your loan!
+    \nPlease enter your car details: </string>
+    <string name="carprice">Car Price >> </string>
+    <string name="downpayment">Down Payment >> </string>
+    <string name="loanperiod">Loan Period (year) >> </string>
+    <string name="interestrate">Interest Rate >> </string>
+
+    <string name="button_text">Check Loan</string>
+
+    <string name="result_text">Here is your result!</string>
+    <string name="carloan">Car Loan >> </string>
+    <string name="interest">Interest >> </string>
+    <string name="repayment">Monthly Repayment >> </string>
+</resources>
